@@ -1,4 +1,4 @@
 build/
 .vim/
 node_modules/
-
+wasm/target/
