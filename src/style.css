@@ -1,0 +1,57 @@
+:root {
+  --std-border-radius: 4px;
+  --std-font-family: monospace;
+}
+
+body {
+  margin: 0;
+  background: rgba(0,0,0, .02);
+}
+
+#root {
+  margin: 1rem auto;
+  max-width: 30rem;
+  border-radius: 4px;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+#textarea {
+  padding: 1rem;
+  height: 6rem;
+  border: none;
+  box-shadow: 0 0 10px rgba(0,0,0, .1);
+  border-radius: var(--std-border-radius);
+  font-size: 0.8rem;
+}
+
+#button {
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.6rem;
+  background-color: #0074D9;
+  font-size: 1rem;
+  color: white;
+  border: none;
+  border-radius: var(--std-border-radius);
+}
+
+#result h2 {
+  margin-bottom: .4rem;
+  font-size: 1.2rem;  
+  font-family: var(--std-font-family);
+}
+
+#result-content {
+  padding: .6rem;
+  border: 1px solid grey;
+  font-family: var(--std-font-family);
+  overflow-wrap: break-word;
+  border-radius: var(--std-border-radius);
+}
+
+

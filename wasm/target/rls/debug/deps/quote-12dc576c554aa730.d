@@ -1,0 +1,13 @@
+/Users/serg/Documents/dev/rust-projects/rust_wasm/wasm/target/rls/debug/deps/quote-12dc576c554aa730.rmeta: /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/Users/serg/Documents/dev/rust-projects/rust_wasm/wasm/target/rls/debug/deps/libquote-12dc576c554aa730.rlib: /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/Users/serg/Documents/dev/rust-projects/rust_wasm/wasm/target/rls/debug/deps/quote-12dc576c554aa730.d: /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs /Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs
+
+/Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/lib.rs:
+/Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ext.rs:
+/Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/format.rs:
+/Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/ident_fragment.rs:
+/Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/to_tokens.rs:
+/Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/runtime.rs:
+/Users/serg/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.3/src/spanned.rs:

@@ -1,0 +1,1 @@
+{"rustc":13355374433309949680,"features":"[]","target":297718385466713840,"profile":2574335274271406459,"path":10872709659218687626,"deps":[[1503928158685308460,"wasm_bindgen",false,9340369278985927766]],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/rust_wasm-e75df43680d9383d/dep-lib-rust_wasm"}}],"rustflags":[],"metadata":7589015278287109341}
