@@ -10,3 +10,7 @@ On the Javascript side we execute a Rust function passing a string converted to 
 npm install
 npm start
 ```
+
+# Screenshot
+
+![Project screenshot](https://user-images.githubusercontent.com/6762673/79657660-de7fb400-81bb-11ea-9592-2a3ef22abfb2.jpg)
