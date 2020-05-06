@@ -1,1 +1,1 @@
-*.js linguist-detectable=false
+wasm/pkg/*.js linguist-vendored
